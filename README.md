@@ -1,2 +1,2 @@
-# hello-world
- repositorio do curso em video (git & github)
+# hello world!
+ repositório para o curso em video (git & github)
