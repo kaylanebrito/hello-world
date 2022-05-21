@@ -1,0 +1,14 @@
+h1 {
+    color: darkblue;
+    font-style: italic;
+    padding: 20px;
+    font-size: 38px;
+}
+
+p {
+    padding: 20px;
+}
+
+body {
+    background-color: #fffffc;
+}
